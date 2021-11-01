@@ -1,0 +1,16 @@
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.exe
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.deps.json
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.runtimeconfig.json
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.runtimeconfig.dev.json
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.dll
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\ref\C#tuts.dll
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\bin\Debug\net5.0\C#tuts.pdb
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.csproj.AssemblyReference.cache
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.AssemblyInfoInputs.cache
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.AssemblyInfo.cs
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.dll
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\ref\C#tuts.dll
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.pdb
+C:\Users\Sammy\Desktop\C#tuts\C#tuts\obj\Debug\net5.0\C#tuts.genruntimeconfig.cache
